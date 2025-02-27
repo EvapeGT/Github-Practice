@@ -6,6 +6,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Whats your name: ");
         name = sc.nextLine();
-        System.out.println("Your name is" + name);
+        System.out.println("Your name is " + name);
     }
 }
