@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Whats your name: ");
         name = sc.nextLine();
         System.out.println("Your name is " + name);
-        //test
-        //test to push on Master
+        //clear all comments
     }
 }
