@@ -8,5 +8,6 @@ public class Main {
         name = sc.nextLine();
         System.out.println("Your name is " + name);
         //clear all comments
+        //add commentFromCodeBranch
     }
 }
