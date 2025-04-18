@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Your name is " + name);
         //clear all comments
         //add commentFromCodeBranch
-        //test from Code Branch
+        //branch1test
     }
 }
